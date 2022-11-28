@@ -1,9 +1,19 @@
-body {background-color: #D7C0AE;}
+/*Tag Selectors*/
+body {background-color: #093c48;}
 hr   {border-style: none;
         border-top-style: inset;
         border-color: #39A2DB;
         border-width: 7px;
         width: 100%}
-img {height: 250px;}
-h1 {color: #1A374D}
-h3 {color: #1A374D }
+img {height: 250px;
+    border-radius: 40px;}
+h1 {color: #e25002;}
+h3 {color: #e25002;}
+table {border-spacing: 25px;}
+a {color: #F8F8F8;}
+li {color: #F8F8F8;}
+td {color: #F8F8F8;}
+th {color: #F8F8F8;}
+/*Class Selectors*/
+.intro1 {color: #F8F8F8;}
+.intro2 {color: #F8F8F8}
